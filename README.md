@@ -15,6 +15,9 @@ git status
 git commit -m"提交说明"
 
 git clone https/ssh
+
+git remote add <name> <url>
+git push
 ```
 
 #### 安装完 Git 后需要指定一个本地的仓库 $(Repository)$ 
